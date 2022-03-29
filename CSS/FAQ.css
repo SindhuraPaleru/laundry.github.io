@@ -1,0 +1,45 @@
+body#faq{
+	background-image:url("../images/faq.png");
+	background-size:20px;
+	line-height:40px;
+}
+#faq #elements{
+	margin-left:300px;
+}
+#questions hr{
+	display:block;	
+	margin:30px;
+}
+#questions{
+	background:white;
+	border:10px solid #efefef;
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	width:90vw;
+	border-radius:30px;
+	padding:120px 30px 30px 30px;
+}
+#h1{
+	display:block;
+	width:100vw;
+	font-size:25px;
+	text-align:center;
+}
+#h3{
+	margin-top:30px;
+	background-color:#e6e6e6;
+	border-radius:30px;
+	font-family: 'Roboto', sans-serif;
+	display:block;
+	padding-bottom:10px;
+	padding-top:20px;
+	padding-left:20px;
+	font-size:25px;
+}
+#h5{
+	color:#0099e6;
+}
+marquee font{
+	font-size:20px;
+	font-weight:bold;
+}
